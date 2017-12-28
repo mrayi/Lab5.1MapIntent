@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab 5.1 Map Intent</string>
+    <string name="lon">Longitude</string>
+    <string name="lat">Latitude</string>
+    <string name="show_map">Show Map</string>
+
+</resources>
